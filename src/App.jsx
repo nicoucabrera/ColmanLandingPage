@@ -1,4 +1,4 @@
-import Navbar from './components/nav'
+import Navbar from './components/Nav'
 import Hero from './components/Hero'
 import Footer from './components/footer'
 import Form from './components/form'
