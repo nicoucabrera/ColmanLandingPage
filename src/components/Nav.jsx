@@ -13,7 +13,7 @@ export default function Navbar() {
     return (
         <header className="lg:px-8 px-2 bg-pink-300 flex flex-wrap items-center py-1 shadow-md border-b border-gray-300">
             <div className="flex-1 flex justify-between items-center">
-                <p className="text-3xl text-gray-800 font-serif">Colman Lucrecia Belen</p>
+                <p className="text-2xl text-gray-800 font-serif">Colman Lucrecia Belen</p>
             </div>
 
             <button
